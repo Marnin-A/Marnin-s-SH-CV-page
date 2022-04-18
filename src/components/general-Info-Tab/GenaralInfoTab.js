@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import "./styles.css";
+import "";
 
 class GenaralInfoTab extends Component {
     render() {
