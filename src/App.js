@@ -1,9 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import GenaralInfoTab from './components/general-Info-Tab/GenaralInfoTab.js';
 
 function App() {
   return (
-   <div></div>
+   <>
+     <GenaralInfoTab/>
+   </>
   );
 }
 
