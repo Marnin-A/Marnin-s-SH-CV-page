@@ -1,0 +1,39 @@
+body{
+    background-color: #b5d0d4;
+}
+
+#form2{
+    position: relative;
+    left: 5%;
+        border-radius: 50px;
+    background: #b4e0e6;
+    box-shadow:  20px 20px 60px #287a85,
+             -20px -20px 60px #408d97;
+    margin-top:2vh;
+    padding: 4vw;
+    font-size: 2em;
+    padding-top: 1.3em;
+}
+
+.component2{
+    top: 40%;
+    align-items: center;
+    position: absolute;
+    display: inline;
+    margin: auto;
+
+    transform: translate(-50%, -41%);
+    top: 50%;
+    left: 50%;
+    width: max-content;
+    
+}
+h2{
+    padding: 1%;
+    font-size: 1.2em;
+    margin: 1%;
+}
+#TA{
+    margin: 1%;
+    padding: 1%;
+}

@@ -1,0 +1,46 @@
+body{
+    background-color: #b5d0d4;
+}
+
+form{
+    position: relative;
+    left: 5%;
+    border-radius: 50px;
+    background: #1b6e79;
+    box-shadow:  20px 20px 60px #175e67,
+             -20px -20px 60px #1f7f8b;
+    margin-top:1vh;
+    padding: 3vw;
+    font-size: 2em;
+    padding-top: .1em;
+}
+
+#avatar{
+        text-align: center;
+    
+}
+
+
+.component1{
+    top: 40%;
+    align-items: center;
+    position: absolute;
+    display: inline;
+    margin: auto;
+    transform: translate(-50%, -41%);
+    top: 50%;
+    left: 16%;
+    width: max-content;
+}
+
+.component2{
+    top: 30%;
+    align-items: center;
+    position: absolute;
+    display: inline-flex;
+    margin: auto;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    width: max-content;
+}
